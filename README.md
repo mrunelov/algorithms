@@ -1,7 +1,7 @@
 algorithms
 ==========
 
-# graph algorithms
+## graph algorithms
 
 - Edmonds Karp
 - Maximum flow
@@ -10,7 +10,7 @@ algorithms
 - Union-Find
 - Eulerian Path (not fully functional)
 
-# Geometry
+## Geometry
 
 - 2D point class
 - Polygon area
@@ -24,7 +24,7 @@ algorithms
 - Number of colinear points
 - Convex hull (not fully functional)
 
-# Number theory
+## Number theory
 
 - Rational numbers class
 - Modular arithmetic (+ GCD and LCM)
