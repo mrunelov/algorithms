@@ -1,4 +1,4 @@
-algorithms
+algorithms (C++)
 ==========
 
 ### graph algorithms
