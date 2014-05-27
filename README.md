@@ -20,7 +20,7 @@ algorithms (C++)
 - Orientation of three points
 - Intersection of line segments
 - On-segment for colinear points
-- Nearest neighbours
+- Closest pair of points
 - Number of colinear points
 - Convex hull (not fully functional)
 
