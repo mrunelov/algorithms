@@ -1,7 +1,7 @@
 algorithms (C++)
 ==========
 
-### graph algorithms
+### Graph algorithms
 
 - Edmonds Karp
 - Maximum flow
