@@ -1,6 +1,15 @@
 algorithms (C++)
 ==========
 
+### Misc
+
+- 0/1 Knapsack
+- Interval cover
+- Longest increasing subsequence
+- Suffix array
+- Fenwick tree
+- String matching
+
 ### Graph algorithms
 
 - Edmonds Karp
